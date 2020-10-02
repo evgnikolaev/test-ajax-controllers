@@ -1,11 +1,7 @@
-# D7. Разработка собственного модуля
+# ajax-контроллеры
 
 
-[ссылка](https://academy.1c-bitrix.ru/education/?COURSE_ID=91&INDEX=Y)
+[ссылка](https://wiki.uplab.ru/pages/viewpage.action?pageId=9732103)
+[ссылка](https://verstaem.com/ajax/new-bitrix-ajax/)
 
-```
-academy.d7                   - собственный модуль
-academy.d7 / z-readme.php    - readme
-test_1.php                   - тестовый файл
-test_11_1N_MN.php            - тестовый файл
-```
+z-index.php
